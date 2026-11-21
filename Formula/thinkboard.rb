@@ -7,8 +7,8 @@
 class Thinkboard < Formula
   desc "Your Obsidian canvas, over everything"
   homepage "https://vestigecounty.github.io/thinkboard/"
-  url "https://github.com/vestigecounty/thinkboard/releases/download/v0.8.0/thinkboard-0.8.0-macos-universal.zip"
-  sha256 "1042ee2d6a87ac95616ae2f6b56e759ec50a434482e81241a5f042a5a85b2acd"
+  url "https://github.com/vestigecounty/thinkboard/releases/download/v0.9.0/thinkboard-0.9.0-macos-universal.zip"
+  sha256 "3d2dfb304eb6da03d78d3f19bc49cd13b018a4ff01b1c67c6601b35d6113ea26"
   license "MIT"
 
   # The release's universal .app — one download for Apple silicon and Intel.
